@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ae73bda7-d97a-441d-9903-5bc064b2bd95" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/CombinatorialCircuit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GateAnd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GateNot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/GateOr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LogicGate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/LogicVariable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../miniteste15/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../miniteste15/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="ae73bda7-d97a-441d-9903-5bc064b2bd95" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -47,7 +38,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="600">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/TestLogicCircuits.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="732">
@@ -56,7 +47,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/CombinatorialCircuit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="841">
@@ -159,7 +150,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553374201382" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553374273069" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -229,9 +220,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="All_in_com_aor_miniteste16_miniteste16_main - 2019.03.23 at 20h 15m 51s.xml">
-      <configuration name="All in com.aor.miniteste16.miniteste16.main" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="All_in_com_aor_miniteste16_miniteste16_main - 2019.03.23 at 20h 16m 02s.xml">
       <configuration name="All in com.aor.miniteste16.miniteste16.main" configurationId="JUnit" />
     </history-entry>
@@ -259,12 +247,14 @@
     <history-entry file="All_in_com_aor_miniteste16_miniteste16_main - 2019.03.23 at 20h 43m 51s.xml">
       <configuration name="All in com.aor.miniteste16.miniteste16.main" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="All_in_com_aor_miniteste16_miniteste16_main - 2019.03.23 at 20h 50m 10s.xml">
+      <configuration name="All in com.aor.miniteste16.miniteste16.main" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="134" y="35" width="3066" height="1765" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25319007" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25319007" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -273,13 +263,13 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32955304" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32955304" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32955304" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5003358" side_tool="true" weight="0.32955304" />
       <window_info anchor="bottom" id="Build" order="10" sideWeight="0.49966422" weight="0.32955304" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32955304" />
@@ -368,13 +358,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/TestLogicCircuits.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="732">
-          <caret line="181" column="1" lean-forward="true" selection-start-line="181" selection-start-column="1" selection-end-line="181" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/CombinatorialCircuit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="841">
@@ -382,6 +365,13 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/TestLogicCircuits.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="732">
+          <caret line="181" column="1" lean-forward="true" selection-start-line="181" selection-start-column="1" selection-end-line="181" selection-end-column="1" />
         </state>
       </provider>
     </entry>
