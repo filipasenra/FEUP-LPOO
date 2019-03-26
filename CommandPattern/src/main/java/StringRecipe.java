@@ -13,7 +13,6 @@ public class StringRecipe {
 
         for(int i = 0; i < transformers.size(); i++)
         {
-
             transformers.get(i).execute();
         }
     }
