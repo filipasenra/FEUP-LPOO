@@ -1,6 +1,8 @@
 # LPOO
 Exercises and Exams solutions for the LPOO curricular unit.
 
+**Final Grade**: 17
+
 ## Project Infos
 * Date: 2nd Year, 2st Semester, 2018/2019
 * Course: Laboratório de Programação Orientada por Objectos (LPOO) | Object Oriented Programming Lab
